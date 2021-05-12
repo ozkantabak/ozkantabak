@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ I am a **Software Engineer** who loves to learn new things, is determined, hardworking, and is very curious about technology.
+ 
+ ### If you want to know more about me:
+* [linkedin](https://www.linkedin.com/in/%C3%B6zkantabak/)
+ 
+ ### If you wanna reach to me:
+
+* [ozkntbk@gmail.com](ozkntbk@gmail.com) :envelope: 
